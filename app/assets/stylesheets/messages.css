@@ -17,10 +17,10 @@
   align-items:center;
 }
 
-.heder-name a{
+.header-name a{
   font-size: 16px;
   color: #FAFAFA;
-  text-decoration:none;
+  text-decoration: none;
 }
 
 .create-room a {
